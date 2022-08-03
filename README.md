@@ -2,11 +2,6 @@
 
 Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na Fundação Escola de Comércio Álvares Penteado (FECAP)
 
-Sobre mim:
-👨🏼‍🏫 Me aventuro como desenvolvedor front-end.
-✍🏼 Muito chato e curioso ao falar sobre projetos computacionais.
-💻 Também me aventuro com C++ e Python.
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
