@@ -1,6 +1,11 @@
 <h2 align = "center"> Olá, sou o Paulo Roberto e aqui estão alguns projetos! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
+Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na Fundação Escola de Comércio Álvares Penteado (FECAP)
 
+Sobre mim:
+👨🏼‍🏫 Me aventuro como desenvolvedor front-end.
+✍🏼 Muito chato e curioso ao falar sobre projetos computacionais.
+💻 Também me aventuro com C++ e Python.
 
 
 <div style="display: inline_block"><br>
